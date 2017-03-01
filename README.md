@@ -1,6 +1,6 @@
 # esp-microPython
 
-Some necessery and usefull information about microPython.
+Some usefull information about microPython.
 Here you'll find:
 
 - Examples
